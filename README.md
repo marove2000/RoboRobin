@@ -25,7 +25,7 @@ You can find the manual and pictures of every step here: https://github.com/Bina
 ### Copyright and Authorship
 
 - Board: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [Timo from blinkyparts.com](https://shop.blinkyparts.com)
-- Axolotl SVG [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) - [Robot by iconcheese from thenounproject.com](https://thenounproject.com/icon/robot-1159392/) (We bought a licence, you should also honour the author.)
+- Robot SVG [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) - [Robot by iconcheese from thenounproject.com](https://thenounproject.com/icon/robot-1159392/) (We bought a licence, you should also honour the author.)
 
 ### Buy Soldering Kits
 If you want to buy the parts and PCB for a soldering kit you can find everything here: [shop.blinkyparts.com](https://shop.blinkyparts.com/)
