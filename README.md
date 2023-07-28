@@ -22,6 +22,9 @@
 ### Manual
 You can find the manual and pictures of every step here: https://github.com/Binary-Kitchen/SolderingTutorial
 
+### 3D Print
+There is also a special clamp brick for Robo robin to use in your constructions and imagination.: https://www.printables.com/de/model/513639-klemmbaustein-brick-stand-for-the-robo-robin
+
 ### Copyright and Authorship
 
 - Board: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [Timo from blinkyparts.com](https://shop.blinkyparts.com)
