@@ -5,7 +5,7 @@
 - Circuit visible on the back for explanation
 - Compatibility of hands with certain other toys of Danish design
 
-<img src="images/roborobin_front.png" width=300px alt="Robo Robin Front"> <img src="images/RoboRobin_back.png" width=300px alt="Robo Robin Back">
+<img src="images/roborobin_front.png" width=300px alt="Robo Robin Front"> <img src="images/roborobin_back.png" width=300px alt="Robo Robin Back">
 
 - Status: **Complete**
 - Difficulty: **1/5**
